@@ -1,5 +1,5 @@
 # dwm version
-VERSION = 6.3
+VERSION = 6.3-lespink
 
 # Customize below to fit your system
 
