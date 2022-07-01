@@ -77,6 +77,7 @@ static Key keys[] = {
 	{ Mod1Mask|ShiftMask,           XK_Tab,    focusstack,     {.i = -1 } },
 	{ MODKEY,                       XK_Up,     incnmaster,     {.i = +1 } },
 	{ MODKEY,                       XK_Down,   incnmaster,     {.i = -1 } },
+//	{ MODKEY,                       XK_Tab,    incnmaster,     {.i = 0 } },
 	{ MODKEY,                       XK_Left,   setmfact,       {.f = -0.05} },
 	{ MODKEY,                       XK_Right,  setmfact,       {.f = +0.05} },
 	{ MODKEY,                       XK_Return, zoom,           {0} },
