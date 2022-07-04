@@ -10,8 +10,8 @@ static const int systraypinningfailfirst    = 1;   /* 1: if pinning fails, displ
 static const int showsystray                = 1;   /* 0 means no systray */
 static const int showbar                    = 1;   /* 0 means no bar */
 static const int topbar                     = 0;   /* 0 means bottom bar */
-static const char *fonts[]                  = { "Jetbrains Mono:size=13" };
-static const char dmenufont[]               = "Jetbrains Mono:size=14";
+static const char *fonts[]                  = { "monospace:size=13" };
+static const char dmenufont[]               = "monospace:size=14";
 static const char col_gray1[]               = "#0d0d0d";
 static const char col_gray2[]               = "#444444";
 static const char col_gray3[]               = "#bbbbbb";
